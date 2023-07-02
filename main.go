@@ -103,7 +103,7 @@ func main() {
 }
 
 /*
-pelajaran yang bisa diambil dari crud di atas:
-1. Decoder digunakan untuk mengambil json raw dan di proses ke backend (dari json ke backend)
-2. Encoder digunakan untuk menampilkan hasil proses backedn ke bentuk json raw (dari backend ke json)
+pelajaran yang bisa diambil:
+1. Decoder digunakan untuk mengambil json raw / external / response http dan di proses ke backend (dari json  ke backend)
+2. Encoder digunakan untuk menampilkan hasil proses backend ke bentuk json external / response http (dari backend ke json)
 */
